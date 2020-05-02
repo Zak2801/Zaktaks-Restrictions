@@ -1,7 +1,7 @@
 # Zaktak's Restrictions
 Gmod Addon for servers to restrict Q menu, prop spawning, PAC3.
 
-### A Simple Addon that lets you restrict players on your server.**
+### A Simple Addon that lets you restrict players on your server.
 > *This is very useful in RP servers, limiting players and blocking minges.*
 
 To configurate the addon simply edit the file called **"sh_zkrconfig.lua"** - *it is very simple.*
